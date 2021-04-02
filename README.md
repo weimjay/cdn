@@ -7,4 +7,4 @@ https://cdn.jsdelivr.net/gh/
 
 3.文件夹名+文件名
 
-4.只需要把cdn.jsdelivr.net替换成purge.jsdelivr.net，然后复制到浏览器访问就会更新缓存
+4.只需要把cdn.jsdelivr.net替换成purge.jsdelivr.net然后复制到浏览器访问就会更新缓存
