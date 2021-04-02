@@ -1,10 +1,12 @@
 # cdn
 
-1.前缀：
+##1.获取文件cdn地址
+-前缀：
 https://cdn.jsdelivr.net/gh/
 
-2.用户名+仓库名
+-用户名+仓库名
 
-3.文件夹名+文件名
+-文件夹名+文件名
 
-4.只需要把cdn.jsdelivr.net替换成purge.jsdelivr.net然后复制到浏览器访问就会更新缓存
+##2.清除缓存
+https://purge.jsdelivr.net/gh/weimjay/oss/...
